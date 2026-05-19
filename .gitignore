@@ -1,0 +1,13 @@
+*.o
+Makefile
+moc_*
+.ui
+qrc_*
+*.pro.user
+*.autosave
+*.stash
+*.user
+build/
+bin/
+obj/
+*.db
