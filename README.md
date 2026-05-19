@@ -1,6 +1,6 @@
 # 🏥 HealthTracker
 **Rastreador Personal de Salud**  
-Universidad ECI — Algoritmos en Sistemas Electrónicos  
+Universidad Escuela Colombiana de Ingeniería Julio Garavito — Algoritmos en Sistemas Electrónicos  
 C++17 · Qt5 · SQLite3 · Doxygen
 
 ---
